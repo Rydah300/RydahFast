@@ -228,12 +228,12 @@ logo="""\033[1;37m
 
  \033[1;32m         
 
-           R R R R      RRRRRRRRRR
-\033[1;31m R      R     R         R
-\033[1;33m R     R      R         R
-           R    R       R         R
-\033[1;34m R      R     R         R
-           R        R   RRRRRRRRRR
+           🆁🆈🅳🅰🅷
+\033[1;31m 
+\033[1;33m   🆃🅼
+           
+\033[1;34m 
+           
 ........:::..:::::..::........:::.......::::......:::..:::::..:::::
 
 
@@ -279,9 +279,9 @@ def R():
 
 			print (' [$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]')
 
-			print ("\033[1m [!] Tool    : Rydah D Hacker")
+			print ("\033[1m [!] Tool    : Rydah Fast Clone")
 
-			print (" [!] Brand   : Rydah")
+			print (" [!] Brand   : Rydah TM D Hacker")
 
 			print(" [!] Expired : No limit")
 
