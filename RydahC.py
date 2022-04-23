@@ -188,7 +188,7 @@ def main_apv():
 
         
 
-    r1=requests.get("https://github.com/mazahirabbas/jimy/blob/main/z.txt").text
+    r1=requests.get("https://github.com/Rydah300/jimy/blob/main/z.txt").text
 
     if key1 in r1:
 
