@@ -340,7 +340,7 @@ def R():
 
 				
 
-				os.system("xdg-open https://chat.whatsapp.com/")
+				os.system("xdg-open https://chat.whatsapp.com/LDEEN1TEhohJPqVuTVTYQT")
 
 				R()
 
