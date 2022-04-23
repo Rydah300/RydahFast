@@ -176,7 +176,7 @@ def main_apv():
 
         print ("")
 
-        print ("     Copy Key And Send Me WhatsApp Approvel Your Key ")
+        print ("     Copy Key And Send Me WhatsApp Approval Your Key ")
 
         print ("[$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]")
 
@@ -188,7 +188,7 @@ def main_apv():
 
         
 
-    r1=requests.get("https://github.com/Rydah300/jimy/blob/main/z.txt").text
+    r1=requests.get("https://github.com/Rydah300/RydahFast/blob/main/z.txt").text
 
     if key1 in r1:
 
@@ -214,7 +214,7 @@ def main_apv():
 
         print ("[$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]")
 
-        print ("     Copy Key And Sent Me WP Approval Your Key ")
+        print ("     Copy Key And Send To Me On WP Approval Your Key ")
 
         print ("[$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]")
 
