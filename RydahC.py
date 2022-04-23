@@ -292,7 +292,7 @@ def R():
 
 			print(" [!] Expired : No limit")
 
-			print (" [!] Status  : \033[1;92mFree\033[1;97m")
+			print (" [!] Status  : \033[1;92mPAID\033[1;97m")
 
 			print (' [$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]')
 
