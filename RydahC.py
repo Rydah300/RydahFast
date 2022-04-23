@@ -290,7 +290,7 @@ def R():
 
 			print (" [!] Brand   : Rydah TM D Hacker")
 
-			print(" [!] Expired : No limit")
+			print(" [!] Expired : One Month Plan")
 
 			print (" [!] Status  : \033[1;92mPAID\033[1;97m")
 
@@ -298,7 +298,7 @@ def R():
 
 			print(" [1] Start Cracking  ")
 
-			print(" [2] Create Supper File [ Ultimate ]")
+			print(" [2] Create Super File [ Ultimate ]")
 
 			print(" [3] Feedback")
 
