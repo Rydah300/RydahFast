@@ -290,7 +290,7 @@ def R():
 
 			print (" [!] Brand   : Rydah TM D Hacker")
 
-			print(" [!] Expired : One Month Plan")
+			print(" [!] Expired : \033[1;92mOne Month Plan\033[1;97m")
 
 			print (" [!] Status  : \033[1;92mPAID\033[1;97m")
 
