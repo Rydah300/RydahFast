@@ -397,7 +397,7 @@ class __xxx__:
 
         global ok,cp,loop
 
-        sys.stdout.write(f"\r \x1b[1;33m[Zeehshsh]\x1b[1;33m {loop}|{len(self.id)} \x1b[1;32m[ok][{len(ok)}] ")
+        sys.stdout.write(f"\r \x1b[1;33m[RYDAH TM]\x1b[1;33m {loop}|{len(self.id)} \x1b[1;32m[ok][{len(ok)}] ")
 
         sys.stdout.flush()
 
@@ -651,7 +651,7 @@ class __xxx__:
 
             print(logo)
 
-            print("\033[1;32m      Dont Forget Allah😊 \033[1;37m")
+            print("\033[1;32m      Dont Forget Mr Rydah😊 \033[1;37m")
 
             print(" [$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]")
 
@@ -691,7 +691,7 @@ class __xxx__:
 
 def dupcutter():
 
-	os.system("xdg-open https://wa.me/+923047274393")
+	os.system("xdg-open https://wa.me/+2349017624430")
 
 	time.sleep(3)
 
